@@ -10,7 +10,7 @@ Welcome to Boston Massachusetts in the 1970s! Imagine you're working for a real 
   <li>How rich or poor the area is</li>
   <li>How many students there are per teacher in local schools etc</li>
 </ul>
-
+<img src=https://i.imgur.com/WfUSSP7.png height=350>
 <b>To accomplish your task you will:</b>
 
 <ul>
