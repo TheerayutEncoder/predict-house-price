@@ -1,5 +1,7 @@
 # predict-house-price
 lesson from 100 Days of Code, Dr. Angela (Udemy)
+
+# Introduction
 Welcome to Boston Massachusetts in the 1970s! Imagine you're working for a real estate development company. Your company wants to value any residential project before they start. You are tasked with building a model that can provide a price estimate based on a home's characteristics like:
 
 <ul>
